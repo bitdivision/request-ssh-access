@@ -26,11 +26,11 @@ The process is as follows:
 
 | Environment | Account Number | Platform Owner Role |
 |-------------|----------------|---------------------|
-| Integration | 150648916438   | [RolePlatformOwner](https://signin.aws.amazon.com/switchrole?account=150648916438&roleName=RolePlatformOwner&displayName=RolePlatformOwner) |
-| Development | 618259438944   | [RolePlatformOwner](https://signin.aws.amazon.com/switchrole?account=618259438944&roleName=RolePlatformOwner&displayName=RolePlatformOwner) |
-| QA          | 248771275994   | [RolePlatformOwner](https://signin.aws.amazon.com/switchrole?account=248771275994&roleName=RolePlatformOwner&displayName=RolePlatformOwner) |
-| Staging     | 186795391298   | [RolePlatformOwner](https://signin.aws.amazon.com/switchrole?account=186795391298&roleName=RolePlatformOwner&displayName=RolePlatformOwner) |
-| External Test | 970278273631 | [RolePlatformOwner](https://signin.aws.amazon.com/switchrole?account=970278273631&roleName=RolePlatformOwner&displayName=RolePlatformOwner) |
-| Production  | 490818658393   | [RolePlatformOwner](https://signin.aws.amazon.com/switchrole?account=490818658393&roleName=RolePlatformOwner&displayName=RolePlatformOwner) |
+| Integration | 150648916438   | [RoleGrantSSHAccess](https://signin.aws.amazon.com/switchrole?account=150648916438&roleName=RoleGrantSSHAccess&displayName=RoleGrantSSHAccess) |
+| Development | 618259438944   | [RoleGrantSSHAccess](https://signin.aws.amazon.com/switchrole?account=618259438944&roleName=RoleGrantSSHAccess&displayName=RoleGrantSSHAccess) |
+| QA          | 248771275994   | [RoleGrantSSHAccess](https://signin.aws.amazon.com/switchrole?account=248771275994&roleName=RoleGrantSSHAccess&displayName=RoleGrantSSHAccess) |
+| Staging     | 186795391298   | [RoleGrantSSHAccess](https://signin.aws.amazon.com/switchrole?account=186795391298&roleName=RoleGrantSSHAccess&displayName=RoleGrantSSHAccess) |
+| External Test | 970278273631 | [RoleGrantSSHAccess](https://signin.aws.amazon.com/switchrole?account=970278273631&roleName=RoleGrantSSHAccess&displayName=RoleGrantSSHAccess) |
+| Production  | 490818658393   | [RoleGrantSSHAccess](https://signin.aws.amazon.com/switchrole?account=490818658393&roleName=RoleGrantSSHAccess&displayName=RoleGrantSSHAccess) |
 
 
